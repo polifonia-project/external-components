@@ -1,26 +1,28 @@
 ---
 id: led
 name: Listening Experience Database
-brief description:
+brief description: LED is an open and freely searchable database that brings together a mass of data about people’s experiences of listening to music of all kinds, in any historical period and any culture.
 type:
   - Dataset
-release date: 
-release number:
-work package:
-pilot:
+#release date: 
+#release number:
+#work package:
+#pilot:
 keywords:
   - dataset
-changelog:
-licence:
-release link:
-image:
+#changelog:
+#licence:
+#release link:
+#image:
 logo: https://www.listeningexperience.org/led-data/themes/thekeynote-v1-01/images/logo.png
-demo: 
+#demo: 
 links: 
-  - https://led.kmi.open.ac.uk
   - https://www.listeningexperience.org
   - https://data.open.ac.uk/sparql
+  - https://led.kmi.open.ac.uk
 running instance:
+  - https://led.kmi.open.ac.uk
+  - https://data.open.ac.uk/sparql
 credits: 
   - Helen Barlow
   - Alessandro Adamou 
