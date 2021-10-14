@@ -10,8 +10,6 @@ credits:
   - "Jason Carvalho"
   - "Enrico Daga"
 #keywords: 
-name: "Listening Experience Database"
-brief-description: "LED is an open and freely searchable database that brings together a mass of data about people’s experiences of listening to music of all kinds, in any historical period and any culture."
 type:
   - Dataset
 links: 
