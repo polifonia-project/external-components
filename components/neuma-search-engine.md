@@ -12,7 +12,7 @@ keywords:
   - "music score"
 changelog:
 licence:
-release link:
+release-link:
 image:
 logo:
 demo:
