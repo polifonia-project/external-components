@@ -3,6 +3,7 @@ id: neuma-search-engine
 name: Neuma search engine
 brief-description: "a search engine for music content"
 type:
+- Service
 release-date: 
 release-number:
 work-package: WP1 WP3
