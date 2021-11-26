@@ -10,6 +10,9 @@ credits:
   - "Jason Carvalho"
   - "Enrico Daga"
 #keywords: 
+pilot:
+  - CHILD
+  - MEETUPS
 type:
   - Dataset
 links: 
@@ -18,8 +21,6 @@ links:
   - "https://led.kmi.open.ac.uk"
 logo: "https://www.listeningexperience.org/led-data/themes/thekeynote-v1-01/images/logo.png"
 name: "Listening Experience Database"
-related-components: 
-  - child
 running-instance:
   - https://led.kmi.open.ac.uk
   - https://data.open.ac.uk/sparql
