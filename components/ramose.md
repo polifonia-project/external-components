@@ -1,6 +1,6 @@
 --- 
 id: ramose
-brief-description: "A generic tool developed in Python to create REST APIs over SPARQL endpoints"
+description: "A generic tool developed in Python to create REST APIs over SPARQL endpoints"
 bibliography: 
   - "Daquino, Marilena, Heibi, Ivan, Peroni, Silvio, Shotton, David \"Creating RESTful APIs over SPARQL endpoints using RAMOSE.\" Semantic Web Journal (2021): 1-19. https://content.iospress.com/articles/semantic-web/sw210439"
 credits: 

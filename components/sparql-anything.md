@@ -1,13 +1,13 @@
 ---
 id: sparql-anything
 name: SPARQL Anything
-brief-description: SPARQL Anything is a system for Semantic Web re-engineering that allows to query non-RDF files as-if they are in RDF.
+description: SPARQL Anything is a system for Semantic Web re-engineering that allows to query non-RDF files as-if they are in RDF.
 type: 
 - Library
 - Service
 - CLI tool
-release-date: 13/09/2021
-release-number: v0.4.1
+release-date: 12/2021
+release-number: v0.5.1
 work-package: 
 - WP1
 - WP2
