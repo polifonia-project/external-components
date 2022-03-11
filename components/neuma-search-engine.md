@@ -1,5 +1,5 @@
 ---
-id: neuma-search-engine
+component-id: neuma-search-engine
 name: Neuma search engine
 description: "A search engine for music content"
 type:

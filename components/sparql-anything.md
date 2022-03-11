@@ -1,5 +1,5 @@
 ---
-id: sparql-anything
+component-id: sparql-anything
 name: SPARQL Anything
 description: SPARQL Anything is a system for Semantic Web re-engineering that allows to query non-RDF files as-if they are in RDF.
 type: 

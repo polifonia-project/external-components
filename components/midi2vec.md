@@ -1,5 +1,5 @@
 ---
-id: midi2vec
+component-id: midi2vec
 name: midi2vec
 description: Compute graph embeddings from MIDI.
 type: 

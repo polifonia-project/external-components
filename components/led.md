@@ -1,5 +1,5 @@
 --- 
-id: led
+component-id: led
 description: "LED is an open and freely searchable database that brings together a mass of data about people’s experiences of listening to music of all kinds, in any historical period and any culture."
 bibliography: 
   - "Adamou, Alessandro, Simon Brown, Helen Barlow, Carlo Allocca, and Mathieu d’Aquin. \"Crowdsourcing Linked Data on listening experiences through reuse and enhancement of library data.\" International Journal on Digital Libraries 20, no. 1 (2019): 61-79. http://oro.open.ac.uk/42045/1/paper_74.pdf"
