@@ -4,13 +4,13 @@ name: SPARQL Anything
 description: SPARQL Anything is a system for Semantic Web re-engineering that allows to query non-RDF files as-if they are in RDF.
 type: 
 - Library
-- Service
 - CLI tool
-release-date: 12/2021
-release-number: v0.5.1
+release-date: 01/2022
+release-number: v0.6.0
 work-package: 
 - WP1
 - WP2
+- WP4
 pilot:
 keywords:
   - knowledge graph construction
@@ -28,10 +28,10 @@ links:
   - https://github.com/SPARQL-Anything/sparql.anything/
 #running-instance:
 credits: 
-- "Luigi Asprino"
+- http://github.com/luigi-asprino
 - http://github.com/enridaga
-#related-components:  
 bibliography: 
 - "Daga, Enrico; Asprino, Luigi; Mulholland, Paul and Gangemi, Aldo (2021). Facade-X: An Opinionated Approach to SPARQL Anything. In: Alam, Mehwish; Groth, Paul; de Boer, Victor; Pellegrini, Tassilo and Pandit, Harshvardhan J. eds. Volume 53: Further with Knowledge Graphs, Volume 53. IOS Press, pp. 58–73. http://oro.open.ac.uk/78973/1/78973.pdf"
-
+related-components:
+- ontology-network
 ---

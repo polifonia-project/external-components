@@ -12,6 +12,8 @@ credits:
 pilot:
   - CHILD
   - MEETUPS
+work-package:
+  - WP4
 type:
   - Dataset
 links: 
@@ -23,4 +25,13 @@ name: "Listening Experience Database"
 running-instance:
   - https://led.kmi.open.ac.uk
   - https://data.open.ac.uk/sparql
+related-components:
+  - Ortenz
+  - Ortenz#2_MusicalSocialNetwork
+  - Ortenz#1_MusicAndChildhood
 --- 
+
+# The Listening Experience Database
+The [Listening Experience Database (LED)](http://led.kmi.open.ac.uk) is an open and freely searchable database that brings together a mass of data about people’s experiences of listening to music of all kinds, in any historical period and any culture.
+
+There are currently 11882 listening experiences, curated by domain experts, in the database.
