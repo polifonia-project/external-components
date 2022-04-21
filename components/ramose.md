@@ -27,3 +27,9 @@ running-instance:
   - https://opencitations.net/index/api/v1
   - https://opencitations.net/api/v1
 --- 
+
+# RAMOSE
+
+Restful API Manager Over SPARQL Endpoints (RAMOSE) is an application that allows agile development and publication of documented RESTful APIs for querying SPARQL endpoints, according to a particular specification document.
+
+See the [source code](https://github.com/opencitations/ramose)
