@@ -1,7 +1,7 @@
 ---
 container-id: sparql-anything-tutorials
 type: Tutorial
-name: SPARQL Anything: Tutorials
+name: "SPARQL Anything: Tutorials"
 description: a collection of tutorials to introduce users to SPARQL Anything
 logo: https://avatars.githubusercontent.com/u/79987779?s=200&v=4
 demo: https://github.com/SPARQL-Anything/showcase-tate
