@@ -1,6 +1,6 @@
 ---
 component-id: sparql-anything-cli
-type: CLITool
+type: CLITool:
 name: SPARQL Anything Command Line
 description: Command line executable of SPARQL Anything
 logo: https://avatars.githubusercontent.com/u/79987779?s=200&v=4
