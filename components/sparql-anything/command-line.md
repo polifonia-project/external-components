@@ -111,3 +111,4 @@ Logging can be configured adding the following option (SLF4J):
 ```
 
 For more information, please see the [online documentation](https://sparql-anything.readthedocs.io/en/latest/#command-line-interface-cli)
+
