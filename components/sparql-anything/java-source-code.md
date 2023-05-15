@@ -29,3 +29,9 @@ related-components:
 - reuses:
   - "SPARQL 1.1 Query Language https://www.w3.org/TR/sparql11-query/"
 ---
+
+# SPARQL Anything Source Code
+
+SPARQL Anything is developed in Java and it is built on top of [Apache Jena](https://jena.apache.org/), which implements the [SPARQL 1.1 W3C specification](https://www.w3.org/TR/sparql11-query/).
+
+More information can be found in the [Github repository](http://github.com/sparql-anything/sparql.anything)
