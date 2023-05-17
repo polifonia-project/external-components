@@ -20,8 +20,11 @@ bibliography:
   - name: European Commission H2020
     url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/h2020
     grant-agreement: "GA101004746"
-credits: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement GA101004746. The communication reflects only the author’s view and the Research Executive Agency is not responsible for any use that may be made of the information it contains."
-- has-part:
+  - name: European Commission H2020
+    url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/h2020
+    grant-agreement: "GA870811"
+credits: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreements GA101004746 (Polifonia) and GA870811 (SPICE)."
+has-part:
   - sparql-anything-cli
   - sparql-anything-java
   - sparql-anything-docs
