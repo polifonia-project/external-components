@@ -11,6 +11,7 @@ related-components:
   - sparql-anything-requirements
   - sparql-anything-cli
   - sparql-anything-server
+licence: APACHE_2.0
 ---
 
 # SPARQL Anything Documentation
