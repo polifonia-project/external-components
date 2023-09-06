@@ -14,7 +14,7 @@ pilot:
 project: polifonia-project
 resource: https://data.open.ac.uk/sparql
 demo: https://data.open.ac.uk/sparql
-licence: CC-BY_4
+licence: CC-BY_v4
 copyright: "Copyright (c) 2023 The Open University"
 contributors:
 - Enrico Daga <https://github.com/enridaga>
