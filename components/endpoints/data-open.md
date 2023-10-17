@@ -14,6 +14,7 @@ pilot:
 project: polifonia-project
 resource: https://data.open.ac.uk/sparql
 demo: https://data.open.ac.uk/sparql
+logo: http://dev-ext.kmi.open.ac.uk/data/assets/img/open-data-icon.pngl
 licence:
 - CC-BY_v4
 copyright: "Copyright (c) 2023 The Open University"
