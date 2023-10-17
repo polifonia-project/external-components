@@ -16,6 +16,8 @@ pilot:
 work-package:
   - WP4
 type: KnowledgeGraph
+licence:
+  - CC-BY-NC-SA_v4
 links: 
   - "https://www.listeningexperience.org"
   - "https://data.open.ac.uk/sparql"
