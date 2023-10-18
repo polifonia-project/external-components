@@ -14,10 +14,13 @@ resource: https://github.com/opencitations/ramose
 release-link: https://github.com/opencitations/ramose/releases/tag/v1.0.6
 release-date: 2022/06/20
 release-number: v1.0.6
-licence: IscLicense
+licence:
+- IscLicense
 related-components: 
   - use-case:
     - polifonia-web-portal
+bibliography:
+- main-publication: "Daquino, M., Heibi, I., Peroni, S., & Shotton, D. (2022). Creating RESTful APIs over SPARQL endpoints using RAMOSE. Semantic Web, 13(2), 195-213."
 --- 
 
 # RAMOSE
