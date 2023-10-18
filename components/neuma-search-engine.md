@@ -14,9 +14,6 @@ keywords:
   - "information retrieval"
   - "music score"
 licence:
-release-link:
-image:
-logo:
 demo:
 links: 
   - http://neuma.huma-num.fr
