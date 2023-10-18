@@ -13,7 +13,6 @@ pilot:
 keywords:
   - "information retrieval"
   - "music score"
-changelog:
 licence:
 release-link:
 image:
