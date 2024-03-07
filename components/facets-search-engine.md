@@ -1,5 +1,5 @@
 ---
-component-id: neuma-search-engine
+component-id: facets-search-engine
 name: FACETS search engine
 description: "A search engine for music documents"
 type: Application
