@@ -3,8 +3,8 @@ component-id: facets-search-engine
 name: FACETS search engine
 description: "A search engine for music documents"
 type: Application
-release-date: 05/22
-release-number: v0.5
+release-date: 11/23
+release-number: v0.8
 work-package:
 - WP1 
 - WP3
