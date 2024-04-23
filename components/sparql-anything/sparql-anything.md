@@ -16,7 +16,7 @@ bibliography:
 - publication: 
   - "Daga, Enrico, Luigi Asprino, Paul Mulholland, and Aldo Gangemi. \"Facade-X: an opinionated approach to SPARQL anything.\" Studies on the Semantic Web 53 (2021): 58-73."
   - "Ratta, Marco, and Enrico Daga. \"Knowledge Graph Construction From MusicXML\": An Empirical Investigation With SPARQL Anything. http://oro.open.ac.uk/85326/1/Music_Knowledge_Graphs_Paper%20%281%29.pdf"
-- funder:
+funder:
   - name: European Commission H2020
     url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/h2020
     grant-agreement: "GA101004746"
@@ -36,7 +36,7 @@ has-part:
 
 # SPARQL Anything
 
-[SPARQL Anything](http://sparql-anything.eu) is a system for Semantic Web re-engineering that allows users to ... query anything with SPARQL.
+[SPARQL Anything](http://sparql-anything.cc) is a system for Semantic Web re-engineering that allows users to ... query anything with SPARQL.
 
 Main features:
 - Query files in plain SPARQL 1.1, via the `SERVICE <x-sparql-anything:>` (see [configuration](https://sparql-anything.readthedocs.io/en/latest/#configuration)) and build knowledge graphs with `CONSTRUCT` queries
