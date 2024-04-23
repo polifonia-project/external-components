@@ -6,7 +6,7 @@ type: Project
 work-package: 
 - WP6
 project: polifonia-project
-- funder:
+funder:
   - name: European Commission H2020
     url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/h2020
     grant-agreement: "GA101004746"
