@@ -2,8 +2,7 @@ import os
 import csv
 from string import Template
 
-template = """
----
+template = """---
 component-id: $id
 type: $type
 name: $title
@@ -22,7 +21,25 @@ $description
 
 """
 
+template2 = """---
+component-id: $id
+type: $type
+name: $title
+description: $description
+resource: $resource
+work-package:
+- WP6
+- $wp
+---
+
+# $title
+
+$description
+
+"""
+
 t = Template(template)
+t2 = Template(template2)
 file = open("videos.csv", "r")
 reader = csv.reader(file, delimiter=',')
 first = True
@@ -38,16 +55,27 @@ for row in reader:
     description = row[4]
     link = row[5]
     resource = row[5]
-    page = t.substitute(
-        id=id,
-        type=typ,
-        description=description,
-        resource=resource,
-        link=link,
-        wp=wp,
-        title=title,
-        pilot=pilot
-    )
+    if pilot != '':
+        page = t.substitute(
+            id=id,
+            type=typ,
+            description=description,
+            resource=resource,
+            link=link,
+            wp=wp,
+            title=title,
+            pilot=pilot
+        )
+    else:
+        page = t2.substitute(
+            id=id,
+            type=typ,
+            description=description,
+            resource=resource,
+            link=link,
+            wp=wp,
+            title=title
+        )
     f = open(id+".md", 'w')
     f.write(page)
     f.close()
